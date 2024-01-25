@@ -26,3 +26,8 @@ article{
 .l1{
     color: red;
 }
+
+.l2{
+    color: blueviolet;
+    list-style-type: square;
+}
