@@ -3,10 +3,26 @@
     text-decoration: underline;
 }
 
+.titulo1{
+    text-decoration: underline;
+    color :red;
+}
+
 article{
-border: solid;
+    border: solid;
 }
 
 .subtitulo{
     text-decoration: underline;
+}
+
+.lista{
+    border: solid;
+    width: 160px;
+    font-size: 30px;
+    
+}
+
+.l1{
+    color: red;
 }
